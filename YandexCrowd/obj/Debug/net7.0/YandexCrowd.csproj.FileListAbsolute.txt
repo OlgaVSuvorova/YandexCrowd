@@ -1,0 +1,28 @@
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\bin\Debug\net7.0\YandexCrowd.exe
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\bin\Debug\net7.0\YandexCrowd.deps.json
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\bin\Debug\net7.0\YandexCrowd.runtimeconfig.json
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\bin\Debug\net7.0\YandexCrowd.dll
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\bin\Debug\net7.0\YandexCrowd.pdb
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.AssemblyInfoInputs.cache
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.AssemblyInfo.cs
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.csproj.CoreCompileInputs.cache
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.dll
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\refint\YandexCrowd.dll
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.pdb
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.genruntimeconfig.cache
+C:\Olga\Programming\Yandex Crowd\YandexCrowd\obj\Debug\net7.0\ref\YandexCrowd.dll
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.AssemblyInfoInputs.cache
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.AssemblyInfo.cs
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.csproj.CoreCompileInputs.cache
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.dll
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\refint\YandexCrowd.dll
+C:\Olga\Programming\YandexCrowd\YandexCrowd\obj\Debug\net7.0\YandexCrowd.pdb
+C:\Olga\Programming\YandexCrowd\yandexcrowd\bin\Debug\net7.0\YandexCrowd.exe
+C:\Olga\Programming\YandexCrowd\yandexcrowd\bin\Debug\net7.0\YandexCrowd.deps.json
+C:\Olga\Programming\YandexCrowd\yandexcrowd\bin\Debug\net7.0\YandexCrowd.runtimeconfig.json
+C:\Olga\Programming\YandexCrowd\yandexcrowd\bin\Debug\net7.0\YandexCrowd.dll
+C:\Olga\Programming\YandexCrowd\yandexcrowd\bin\Debug\net7.0\YandexCrowd.pdb
+C:\Olga\Programming\YandexCrowd\yandexcrowd\obj\Debug\net7.0\YandexCrowd.genruntimeconfig.cache
+C:\Olga\Programming\YandexCrowd\yandexcrowd\obj\Debug\net7.0\ref\YandexCrowd.dll
